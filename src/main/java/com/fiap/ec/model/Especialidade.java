@@ -1,4 +1,4 @@
-package com.fiap.ec;
+package com.fiap.ec.model;
 import jakarta.persistence.*;
 @Entity
 @Table(name = "especialidades")
